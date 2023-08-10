@@ -1,0 +1,12 @@
+{
+
+    //ESlint autofix on save
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint":  true
+    },
+
+    //show git folder
+    "files.exclude":{
+        "**/.git": false,
+    },
+}
